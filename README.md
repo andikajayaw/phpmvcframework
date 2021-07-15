@@ -1,5 +1,5 @@
 # FRAMEWORK USING PHP
 
-Building a framework using PHP:
+This is a PHP Framwork:
 
-> PHP Framework
+> Building Framework using PHP
