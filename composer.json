@@ -1,0 +1,15 @@
+{
+    "name": "user/phpmvcframework",
+    "authors": [
+        {
+            "name": "andika jaya",
+            "email": "andikajayawiguna@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
